@@ -954,7 +954,8 @@ Applied as jQuery method.
                                            '.datepicker', //in inline mode datepicker is rendered into body
                                            '.modal-backdrop', 
                                            '.bootstrap-wysihtml5-insert-image-modal', 
-                                           '.bootstrap-wysihtml5-insert-link-modal'
+                                           '.bootstrap-wysihtml5-insert-link-modal',
+                                           '.x-editable-exclude-close'
                                            ];
                     
                     //check if element is detached. It occurs when clicking in bootstrap datepicker
